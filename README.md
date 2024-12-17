@@ -1,8 +1,8 @@
-This is a simple Python utility to open links to webpages directly from your terminal. With the help of "webbrowser", the script will open the link you entered in your default browser.
-Not anything new or ground-breaking, just a simple code I made in my free time, as I enjoy playing around with Python.
+# PyBrowser
+PyBrowser is a browser/URL launcher that lets, you, the user, open URLs. These ain´t the 1990s anymore, so clearly, we have made the process easier.
 
-You are free to create forks of this utility and make it your own, just make me the favor of acknowledging me in your README. I will be very thankful.
+# Overcomplication at its finest!
+Instead of quickly opening a new tab in your browser and opening URLs there, with PyBrowser, you can add an entire step to this process! But hey, you are making it in STYLE, PYTHON STYLE!
 
-
-
-PS: PyBrowser Incorporated is NOT a real company, just something I threw in for some reason!
+# Get in touch with the overthinking team!
+Email: edsamarvall@thattechguy.ct.ws

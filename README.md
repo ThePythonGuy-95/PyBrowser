@@ -5,4 +5,4 @@ PyBrowser is a browser/URL launcher that lets, you, the user, open URLs. These a
 Instead of quickly opening a new tab in your browser and opening URLs there, with PyBrowser, you can add an entire step to this process! But hey, you are making it in STYLE, PYTHON STYLE!
 
 # Get in touch with the overthinking team!
-Email: edsamarvall@thattechguy.ct.ws
+Email: thattechguy@thetechsite.ct.ws
